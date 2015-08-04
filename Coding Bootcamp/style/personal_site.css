@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background: url("https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10850222_421890944627381_5973956875093330774_n.jpg?oh=1134e688f4ef347c03835584d1715746&oe=5640B5E5");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    font-family: Helvetica;
+}
+p {
+    font-size: 24px;
+}
+input {
+    border: 0;
+    padding: 12px;
+    font-size: 18px;
+}
+input[type="submit"] {
+    background: limegreen;
+    color: black;
+}
+
+.twitter-timeline {
+    margin-right: 50px;
+    margin-left:  50px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    background-color: #CCFFFF;
+}
+h1 {
+    font-family: 'Sigmar One', cursive;
+}
+p {
+    font-family: 'Sigmar One';
+}
